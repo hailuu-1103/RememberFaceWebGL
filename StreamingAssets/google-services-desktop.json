@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "196574788604",
+    "project_id": "remember-face",
+    "storage_bucket": "remember-face.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:196574788604:android:e5c46263d256d6e6a21079",
+        "android_client_info": {
+          "package_name": "com.remember.face.puzzle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "196574788604-bnsj0ql5phokf90r5ng6aab93ikckijl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBA0TCqeDkXeQAPxbQJO3_a0iSEBq0fn98"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "196574788604-bnsj0ql5phokf90r5ng6aab93ikckijl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
